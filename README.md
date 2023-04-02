@@ -1,4 +1,4 @@
-# WordsRevision
+# Words Revision Script
 
 This program tracks and maintain a user’s revision history of English words and save the history in a file named “history.txt”. The program has two main data manipulation tasks:
 
